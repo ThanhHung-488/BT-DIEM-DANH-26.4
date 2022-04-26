@@ -10,14 +10,14 @@ namespace Animal
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat();
-            cat.eat();
-            cat.makeSound();
-            cat.run();
-            Bird bird = new Bird();
-            bird.eat();
-            bird.makeSound();
-            bird.fly();
+            Cat cat226 = new Cat();
+            cat226.eat();
+            cat226.makeSound();
+            cat226.run();
+            Bird bird226 = new Bird();
+            bird226.eat();
+            bird226.makeSound();
+            bird226.fly();
             Console.ReadKey();
         }
     }
